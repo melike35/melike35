@@ -2,8 +2,11 @@
 
 
 🔭 I’m currently working on my assignments 😔
+
 🌱 I’m currently learning data science
+
 🤔 I'm looking for help with find career path
+
 ⚡ Fun fact: i'm trade addict 🤭
 
 
