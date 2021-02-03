@@ -1,4 +1,4 @@
-### Hi there 👋
+### こんにちは 👋
 
 
 🔭 I’m currently working on my assignments 😔
