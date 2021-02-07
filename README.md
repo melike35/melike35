@@ -5,8 +5,6 @@
 
 🌱 I’m currently learning data science
 
-🤔 I'm looking for help with find career path
-
 ⚡ Fun fact: your lucky number will be  ![Visitor Count](https://profile-counter.glitch.me/melike35/count.svg) 🤭
 
 
