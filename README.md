@@ -5,10 +5,9 @@
 
 🌱 I’m currently learning data science
 
-⚡ Fun fact: 
 
 
-<h2> 🛠  : </h2>
+<h2> 🛠Tools : </h2>
 
 <p align="left">
  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a>
