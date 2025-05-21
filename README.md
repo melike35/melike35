@@ -1,9 +1,9 @@
 ## 👋 Hej, I'm Melike  
 <img src="https://c.tenor.com/hNxx19GZPEcAAAAi/computers-new-computer.gif" alt="working" width="90" height="80"/>
 
-- 🎓 I'm a master's student in **Big Data Analytics & Management**, with a background in **Computer Engineering**  
-- 💡 Passionate about **AI**, **data-driven solutions**, and building intelligent tools for real-world impact  
-- 🌍 Currently expanding my knowledge in **machine learning** and **graph-based AI** during my Erasmus in **Sweden**
+- 🎓 I'm a master's student in Big Data Analytics & Management, with a background in Computer Engineering  
+- 💡 Passionate about AI, data-driven solutions, and building intelligent tools for real-world impact  
+
 
 <h2> 🛠Toolbox : </h2>
 
