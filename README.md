@@ -4,7 +4,9 @@
 - 🎓 I'm a master's student in Big Data Analytics & Management, with a background in Computer Engineering  
 - 💡 Passionate about AI, data-driven solutions, and building intelligent tools for real-world impact  
 
+📫 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/melikedemirdag)  
 <h2> 🛠Toolbox : </h2>
 
 <p align="left">
