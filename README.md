@@ -1,7 +1,9 @@
+## 👋 Hej, I'm Melike  
+<img src="https://c.tenor.com/hNxx19GZPEcAAAAi/computers-new-computer.gif" alt="working" width="90" height="80"/>
 
-<h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hej,I'm Melike <img src="https://c.tenor.com/hNxx19GZPEcAAAAi/computers-new-computer.gif" alt="python" width="100" height="90"/> </h1>
-🎓 I'm a master's student in Big Data Analytics & Management with a background in Computer Engineering.
-💡 Passionate about AI, data-driven solutions, and building intelligent tools that solve real-world problems.
+- 🎓 I'm a master's student in **Big Data Analytics & Management**, with a background in **Computer Engineering**  
+- 💡 Passionate about **AI**, **data-driven solutions**, and building intelligent tools for real-world impact  
+- 🌍 Currently expanding my knowledge in **machine learning** and **graph-based AI** during my Erasmus in **Sweden**
 
 <h2> 🛠Toolbox : </h2>
 
