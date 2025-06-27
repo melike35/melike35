@@ -10,10 +10,12 @@
 
 <p align="left">
  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/> </a>
-  <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>  </a> 
- <a href="https://https://neo4j.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j" width="80" height="50"/> </a> 
- <a href="https://https://mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="neo4j" width="80" height="50"/> </a> 
  <a href="https://pytorch.org/" target="_blank"> <img src="https://images.icon-icons.com/2699/PNG/512/pytorch_logo_icon_169823.png" alt="PyTorch" width="80" height="50"/> </a> 
+ <a href="https://https://neo4j.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" alt="neo4j" width="80" height="50"/> </a> 
+  <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>  </a> 
+ 
+ <a href="https://https://mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="neo4j" width="80" height="50"/> </a> 
+ 
 
  
 
